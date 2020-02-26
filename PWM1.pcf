@@ -1,0 +1,9 @@
+set_io clk R9
+set_io flag C9
+
+set_io duty[0] D6
+set_io duty[1] C6
+set_io duty[2] C7
+set_io duty[3] D7
+
+set_io V B7
